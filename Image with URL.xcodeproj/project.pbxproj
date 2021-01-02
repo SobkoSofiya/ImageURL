@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C364478525A07E23007AF157 /* URLSwiftImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C364478425A07E23007AF157 /* URLSwiftImage.swift */; };
 		C374586F259C6D71002D4E11 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C374586E259C6D71002D4E11 /* AppDelegate.swift */; };
 		C3745871259C6D71002D4E11 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3745870259C6D71002D4E11 /* SceneDelegate.swift */; };
 		C3745873259C6D71002D4E11 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3745872259C6D71002D4E11 /* ContentView.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C364478425A07E23007AF157 /* URLSwiftImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLSwiftImage.swift; sourceTree = "<group>"; };
 		C374586B259C6D71002D4E11 /* Image with URL.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Image with URL.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C374586E259C6D71002D4E11 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C3745870259C6D71002D4E11 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				C374586E259C6D71002D4E11 /* AppDelegate.swift */,
 				C3745870259C6D71002D4E11 /* SceneDelegate.swift */,
 				C3745872259C6D71002D4E11 /* ContentView.swift */,
+				C364478425A07E23007AF157 /* URLSwiftImage.swift */,
 				C3745874259C6D74002D4E11 /* Assets.xcassets */,
 				C3745879259C6D74002D4E11 /* LaunchScreen.storyboard */,
 				C374587C259C6D74002D4E11 /* Info.plist */,
@@ -267,6 +270,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C374586F259C6D71002D4E11 /* AppDelegate.swift in Sources */,
+				C364478525A07E23007AF157 /* URLSwiftImage.swift in Sources */,
 				C3745871259C6D71002D4E11 /* SceneDelegate.swift in Sources */,
 				C3745873259C6D71002D4E11 /* ContentView.swift in Sources */,
 			);
